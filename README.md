@@ -1,4 +1,5 @@
-# PrivacyPolicy
+# Privacy Policy
+
 This privacy statement describes how Hugsoft collects and uses the personal information you provide. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 Location Services
